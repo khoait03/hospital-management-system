@@ -1,6 +1,6 @@
 # WEBSITE QUẢN LÝ BỆNH VIỆN PHÒNG KHÁM ĐẶT LỊCH KHÁM BỆNH
 
-![Portfolio KhoaDev](https://raw.githubusercontent.com/khoait03/hospital-management-system/main/public/demo/laravel-ql-benh-vien-thumb.png)
+![Portfolio KhoaDev](https://raw.githubusercontent.com/khoait03/hospital-management-system/main/public/demo/laravel-ql-benh-vien.png)
 
 # Phạm vi dự án
 
